@@ -4,7 +4,7 @@
 - [x] useInput: handles input
 - [x] useTabs: handles tabs
 - [x] useClick: gets reference from onClick event
-- [] useHover
+- [x] useHover: gets reference from onHover event
 - [] usePageLeave
 - [] useFadeIn
 - [] useFullScreen
