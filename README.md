@@ -7,8 +7,8 @@
 - [x] useHover: gets reference from onHover event
 - [x] usePreventLeave: prevent user before leaving website
 - [x] useConfirm: confirm modal
-- [] usePageLeave
-- [] useFadeIn
+- [x] useBeforeLeave: catches an event when leaving broswer
+- [x] useFadeIn: makes the content fade
 - [] useFullScreen
 - [] useNetwork
 - [] useNotification
