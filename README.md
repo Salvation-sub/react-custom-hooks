@@ -2,15 +2,15 @@
 
 - [x] useTitle: changes title for website
 - [x] useInput: handles input
+- [x] useTabs: handles tabs
+- [x] useClick: gets reference from onClick event
+- [] useHover
 - [] usePageLeave
-- [] useClick
 - [] useFadeIn
 - [] useFullScreen
-- [] useHover
 - [] useNetwork
 - [] useNotification
 - [] useScroll
-- [x] useTabs: handles tabs
 - [] usePreventLeave
 - [] useConfirm
 - [] useAxios
