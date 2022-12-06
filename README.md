@@ -9,8 +9,8 @@
 - [x] useConfirm: confirm modal
 - [x] useBeforeLeave: catches an event when leaving broswer
 - [x] useFadeIn: makes the content fade
+- [x] useNetwork: handles network status (online/offline)
 - [] useFullScreen
-- [] useNetwork
 - [] useNotification
 - [] useScroll
 - [] useAxios
