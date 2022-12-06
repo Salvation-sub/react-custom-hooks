@@ -1,7 +1,7 @@
 # hooks
 
-- [] useTitle
-- [x] useInput
+- [x] useTitle: changes title for website
+- [x] useInput: handles input
 - [] usePageLeave
 - [] useClick
 - [] useFadeIn
@@ -10,7 +10,7 @@
 - [] useNetwork
 - [] useNotification
 - [] useScroll
-- [x] useTabs
+- [x] useTabs: handles tabs
 - [] usePreventLeave
 - [] useConfirm
 - [] useAxios
