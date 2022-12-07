@@ -13,4 +13,4 @@
 - [x] useScroll: detects window scroll value
 - [x] useFullScreen: triggers fullscreen
 - [x] useNotification: triggers notification API with options and title
-- [] useAxios
+- [x] useAxios: includes loading ,error, refetch state when fetching with axios
