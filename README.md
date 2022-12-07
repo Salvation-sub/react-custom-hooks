@@ -10,7 +10,7 @@
 - [x] useBeforeLeave: catches an event when leaving broswer
 - [x] useFadeIn: makes the content fade
 - [x] useNetwork: handles network status (online/offline)
+- [x] useScroll: detects window scroll value
 - [] useFullScreen
 - [] useNotification
-- [] useScroll
 - [] useAxios
