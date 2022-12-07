@@ -11,6 +11,6 @@
 - [x] useFadeIn: makes the content fade
 - [x] useNetwork: handles network status (online/offline)
 - [x] useScroll: detects window scroll value
-- [] useFullScreen
+- [x] useFullScreen: triggers fullscreen
 - [] useNotification
 - [] useAxios
