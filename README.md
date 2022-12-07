@@ -12,5 +12,5 @@
 - [x] useNetwork: handles network status (online/offline)
 - [x] useScroll: detects window scroll value
 - [x] useFullScreen: triggers fullscreen
-- [] useNotification
+- [x] useNotification: triggers notification API with options and title
 - [] useAxios
